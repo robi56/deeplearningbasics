@@ -1,4 +1,4 @@
 # deeplearningbasics
 Deep learning fundamentals 
 
-[**Batch Normalization**]()
+[**Batch Normalization**](./batch_normalization.md) 
